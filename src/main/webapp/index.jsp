@@ -91,7 +91,7 @@
                 <img src="./assets/img/poster 4.png" class="card-img" alt="">
                 <div class="card-body">
                     <h2 class="name">Avengers Endgame</h2>
-                    <h6 class="des">Lorem hello dolor helo consectetur elit.</h6>
+                    <h6 class="des">Lorem hello hi helo consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
